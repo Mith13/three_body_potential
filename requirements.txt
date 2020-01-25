@@ -2,4 +2,4 @@ numpy==1.18.*
 matplotlib==3.*
 scipy==1.4.*
 plotly==1.13.*
-chart_studio=1.*
+chart_studio==1.*
